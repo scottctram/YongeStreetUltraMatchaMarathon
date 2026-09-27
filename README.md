@@ -28,24 +28,5 @@ The raw extraction returned ~40 candidate locations, which underwent practical s
 
 This reduced the dataset to an optimized target list of **14 candidate stops**.
 
-```overpass
-[out:json][timeout:90];
-
-// 1. Fetch Yonge Street ways across York Region & Toronto
-way["name"="Yonge Street"]["highway"](43.60,-79.45,44.10,-79.35)->.yonge;
-
-// 2. Search for food & beverage amenities within 50 meters
-(
-  node(around.yonge:50)["amenity"~"cafe|restaurant|fast_food|ice_cream|bubble_tea"];
-  way(around.yonge:50)["amenity"~"cafe|restaurant|fast_food|ice_cream|bubble_tea"];
-  node(around.yonge:50)["shop"~"tea|beverage|confectionery"];
-  way(around.yonge:50)["shop"~"tea|beverage|confectionery"];
-);
-
-// 3. Output results
-out center body;
->;
-out skel qt;
-
 ![Ultra Matcha Marathon Route & Ratings](Graphic.jpg)
 
