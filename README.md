@@ -4,7 +4,6 @@ Combining three passions: **running**, **geospatial data engineering**, and **ma
 
 A 58 km self-supported ultramarathon starting at the northern terminus of Yonge Street in East Gwillumbury and finishing at Queens Quay along Lake Ontario in Toronto—hitting as many matcha cafes as logistically possible along the corridor.
 
-![Ultra Matcha Marathon Route & Ratings](Graphic.jpg)
 
 ---
 
@@ -47,3 +46,6 @@ way["name"="Yonge Street"]["highway"](43.60,-79.45,44.10,-79.35)->.yonge;
 out center body;
 >;
 out skel qt;
+
+![Ultra Matcha Marathon Route & Ratings](Graphic.jpg)
+
