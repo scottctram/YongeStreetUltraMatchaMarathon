@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ChIJASTkfFM1K4gRZVqT8ha1dGQ",
+    "name": "Kream",
+    "address": "526 Yonge St, Toronto, ON M4Y 1X9, Canada",
+    "lat": 43.6637856,
+    "lng": -79.3842342,
+    "rating": 4.6,
+    "website": "https://kreamtoronto.com/"
+  },
+  {
+    "id": "ChIJr037itg1K4gR5azKyeCrlUU",
+    "name": "Bloom Cafe",
+    "address": "596 Yonge St, Toronto, ON M4Y 1Z3, Canada",
+    "lat": 43.6655121,
+    "lng": -79.3850598,
+    "rating": 4.5,
+    "website": "https://thebloomcafe.ca/"
+  },
+  {
+    "id": "ChIJbyFQq741K4gR3ZUBLI2Hhkw",
+    "name": "JP FOOD MART",
+    "address": "376 Yonge St, Toronto, ON M5B 1S6, Canada",
+    "lat": 43.65889310000001,
+    "lng": -79.3822261,
+    "rating": 4.8,
+    "website": "https://www.clover.com/online-ordering/jp-food-mart-toronto"
+  },
+  {
+    "id": "ChIJG5rDHmo1K4gRVmOZRJA0rmw",
+    "name": "Sufi's Ice Cream and Desserts",
+    "address": "335 Yonge St, Toronto, ON M5B 1R7, Canada",
+    "lat": 43.65750570000001,
+    "lng": -79.380849,
+    "rating": 4.8,
+    "website": "https://www.instagram.com/sufisdesserts"
+  },
+  {
+    "id": "ChIJf-xHHgA1K4gRmxSJlpbQ0yQ",
+    "name": "The Peachy (Downtown)",
+    "address": "618 Yonge St, Toronto, ON M4Y 1Z3, Canada",
+    "lat": 43.665909299999996,
+    "lng": -79.3851723,
+    "rating": 4.5,
+    "website": "https://www.thepeachy.ca/"
+  },
+  {
+    "id": "ChIJgTfeegA1K4gRX1Or2frujNg",
+    "name": "heytea (505 Yonge St)",
+    "address": "505 Yonge St, Toronto, ON M4Y 0J3, Canada",
+    "lat": 43.663350799999996,
+    "lng": -79.38363290000001,
+    "rating": 4.2,
+    "website": "https://www.heytea.com/"
+  },
+  {
+    "id": "ChIJLybpObczK4gRYq5SnCjdHtU",
+    "name": "M Chá Bar (Yonge & Eglinton) In The Alley",
+    "address": "2409 Yonge St, Toronto, ON M4P 0C9, Canada",
+    "lat": 43.7104322,
+    "lng": -79.3986006,
+    "rating": 4.4,
+    "website": "https://www.clover.com/online-ordering/m-cha-bar-toronto-2"
+  },
+  {
+    "id": "ChIJm7yk1rQzK4gR6u4SQzODmlM",
+    "name": "Denovia Cafe",
+    "address": "2656 Yonge St, Toronto, ON M4P 2J5, Canada",
+    "lat": 43.7159189,
+    "lng": -79.4006383,
+    "rating": 4.6,
+    "website": "http://www.denoviacanada.com/"
+  },
+  {
+    "id": "ChIJuRZu1P0tK4gRKcl8VLpAR60",
+    "name": "M Chá Bar (Yonge & Finch)",
+    "address": "5291 Yonge St, North York, ON M2N 5R3, Canada",
+    "lat": 43.772813299999996,
+    "lng": -79.4134942,
+    "rating": 4.6,
+    "website": "https://www.mchabar.ca/"
+  },
+  {
+    "id": "ChIJTbwPA8ozK4gR94Hl3-dv1C0",
+    "name": "Baba Cafe and Snackbar",
+    "address": "3204 Yonge St, Toronto, ON M4N 2L2, Canada",
+    "lat": 43.7284127,
+    "lng": -79.4033919,
+    "rating": 4.9,
+    "website": "https://babasnackbartoronto.com/"
+  },
+  {
+    "id": "ChIJqXlhEAAtK4gR50rNT57Er18",
+    "name": "LA LA Bakeshop (North York)",
+    "address": "5459 Yonge St, North York, ON M2N 5S1, Canada",
+    "lat": 43.7775733,
+    "lng": -79.4146691,
+    "rating": 4.6,
+    "website": "https://www.lalabakeshop.ca/"
+  },
+  {
+    "id": "ChIJC4VKmEotK4gR2vm7PUj33VY",
+    "name": "TeaByDo (North York)",
+    "address": "5203 Yonge St, North York, ON M2N 5P7, Canada",
+    "lat": 43.7706559,
+    "lng": -79.4129452,
+    "rating": 4.4,
+    "website": "https://pos.chowbus.com/online-ordering/store/TeaByDo-North-York/23266"
+  },
+  {
+    "id": "ChIJx5clW90tK4gRSK2GuOTKrVg",
+    "name": "Phin La (North York)",
+    "address": "5415 Yonge St, North York, ON M2N 5R6, Canada",
+    "lat": 43.7762378,
+    "lng": -79.4143598,
+    "rating": 4.5,
+    "website": "https://www.instagram.com/phinla.cafe?igsh=MTlsaHFsa3FxMjFscA==&utm_source=qr"
+  },
+  {
+    "id": "ChIJYeulkaUtK4gRc8vC-ueSdbA",
+    "name": "6 Cloud (Yonge & Finch)",
+    "address": "10 Northtown Way #110, North York, ON M2N 7L4, Canada",
+    "lat": 43.7755683,
+    "lng": -79.4133045,
+    "rating": 4.8,
+    "website": "https://www.6cloud.co/"
+  },
+  {
+    "id": "ChIJy847vW8tK4gR3Iu9o98ghfM",
+    "name": "Saryo cafe",
+    "address": "5051 Yonge St, North York, ON M2N 5P2, Canada",
+    "lat": 43.767013299999995,
+    "lng": -79.41206609999999,
+    "rating": 4.4,
+    "website": "http://www.saryocafe.com/"
+  },
+  {
+    "id": "ChIJ48mnnjgtK4gRBPjmTA3AKkc",
+    "name": "A Corner Cafe North York",
+    "address": "5193 Yonge St, North York, ON M2N 5P7, Canada",
+    "lat": 43.7704042,
+    "lng": -79.4129456,
+    "rating": 4.6,
+    "website": "http://www.acornercafe.ca/"
+  },
+  {
+    "id": "ChIJLT8M2BotK4gRl5pgzFdYPVI",
+    "name": "Cafe Kray",
+    "address": "4850 Yonge St Floor 2, North York, ON M2N 5N2, Canada",
+    "lat": 43.762553399999994,
+    "lng": -79.41163700000001,
+    "rating": 4.2,
+    "website": "http://cafekray.com/"
+  },
+  {
+    "id": "ChIJBZChiEgtK4gRkY-og4p-CKk",
+    "name": "Mr.Sun",
+    "address": "5460 Yonge St, North York, ON M2N 6K7, Canada",
+    "lat": 43.7772387,
+    "lng": -79.41534089999999,
+    "rating": 4.6,
+    "website": "http://mrsuntea.net/"
+  },
+  {
+    "id": "ChIJ03QCRcItK4gRrdlxDZY-FH4",
+    "name": "The Cups (Finch)",
+    "address": "5647 Yonge St, North York, ON M2M 3T2, Canada",
+    "lat": 43.781199199999996,
+    "lng": -79.4155792,
+    "rating": 4.6,
+    "website": "https://cupscanada.ca/"
+  },
+  {
+    "id": "ChIJO-DMrocrK4gRkugaMY_iLfA",
+    "name": "Nowruz Lounge",
+    "address": "9471 Yonge St Unit 108, Richmond Hill, ON L4C 1V4, Canada",
+    "lat": 43.8577606,
+    "lng": -79.4338185,
+    "rating": 5,
+    "website": "http://www.nowruzinc.com/"
+  },
+  {
+    "id": "ChIJ4S81qzsrK4gRQAloyI1a-BA",
+    "name": "Marry Me Mochi",
+    "address": "9350 Yonge St, Richmond Hill, ON L4C 5G2, Canada",
+    "lat": 43.854778499999995,
+    "lng": -79.43693789999999,
+    "rating": 4.8,
+    "website": "https://www.marrymemochi.ca/"
+  },
+  {
+    "id": "ChIJtRVMSgArK4gR9xb4RLuyK_E",
+    "name": "Tondo French bakery",
+    "address": "10520 Yonge St Unit 41, Richmond Hill, ON L4C 3C7, Canada",
+    "lat": 43.884088899999995,
+    "lng": -79.4415579,
+    "rating": 4.7,
+    "website": "http://tondoofficial.com/"
+  },
+  {
+    "id": "ChIJN7VGrbjV1IkRpiZcBmr_Jjs",
+    "name": "My Vibrant Leaf Company",
+    "address": "4681 Hwy 7 For Pick Up Only---Candy Mart Convenience Store Office Richmondhill: 10225 Yonge St Unit R234 Richmond Hill ON L4C 3B2, Unionville, ON L3R 1M8, Canada",
+    "lat": 43.876827899999995,
+    "lng": -79.4378596,
+    "rating": 5,
+    "website": "https://www.myvibrantleaf.com/"
+  },
+  {
+    "id": "ChIJV6tUwSbTKogRKz3GM12X4rs",
+    "name": "SUFICUP CAFE",
+    "address": "14834 Yonge St Unit 8, Aurora, ON L4G 7Y4, Canada",
+    "lat": 43.989716,
+    "lng": -79.46596749999999,
+    "rating": 4.7,
+    "website": "https://suficup.ca/"
+  },
+  {
+    "id": "ChIJPUuDRLrTKogRS0NaGgb17LQ",
+    "name": "Bella Aurora Cafe",
+    "address": "15242 Yonge St, Aurora, ON L4G 1L9, Canada",
+    "lat": 43.999471,
+    "lng": -79.46789319999999,
+    "rating": 4.7,
+    "website": "https://www.bellaauroracafe.ca/"
+  },
+  {
+    "id": "ChIJOXYNEgDTKogRuaiXJXwvOwg",
+    "name": "Hayaat Art Cafe",
+    "address": "15240 Yonge St, Aurora, ON L4G 1L9, Canada",
+    "lat": 43.9994368,
+    "lng": -79.4676882,
+    "rating": 4.9,
+    "website": "https://hayaat-art-cafe.netlify.app/#our-story"
+  },
+  {
+    "id": "ChIJCTS83_zRKogRa1nqYMg8hKg",
+    "name": "Palgong Tea (Newmarket)",
+    "address": "Inside Buddy Plus Indoor Golf, 17310 Yonge St Unit 9, Newmarket, ON L3Y 7R8, Canada",
+    "lat": 44.049771799999995,
+    "lng": -79.48029989999999,
+    "rating": 4.3,
+    "website": ""
+  },
+  {
+    "id": "ChIJNURVI6DRKogR87VP1SJ4JQo",
+    "name": "The Happy Chocco",
+    "address": "Market & Co, 17600 Yonge St, Newmarket, ON L3Y 4Z1, Canada",
+    "lat": 44.056736799999996,
+    "lng": -79.48440269999999,
+    "rating": 4.9,
+    "website": "https://www.thehappychocco.ca/"
+  },
+  {
+    "id": "ChIJu-LPQgDRKogR26lLd-H1AzU",
+    "name": "Ice Babo",
+    "address": "16655 Yonge St Unit 20, Newmarket, ON L3X 1V6, Canada",
+    "lat": 44.0354385,
+    "lng": -79.4730414,
+    "rating": 3,
+    "website": ""
+  },
+  {
+    "id": "ChIJz9U0AEzRKogRbpYAeDpLkgw",
+    "name": "Flame Cafe",
+    "address": "16775 Yonge St Unit 6, Newmarket, ON L3Y 8J4, Canada",
+    "lat": 44.037229599999996,
+    "lng": -79.4757619,
+    "rating": 4.8,
+    "website": "http://flamecafe.ca/"
+  },
+  {
+    "id": "ChIJKTfy1HHPKogRt6CAAmcHnkc",
+    "name": "Sushi Pho You",
+    "address": "18025 Yonge St Unit 1, Newmarket, ON L3Y 8C9, Canada",
+    "lat": 44.067658699999996,
+    "lng": -79.4824287,
+    "rating": 4.7,
+    "website": "https://www.sushiphoyou.ca/"
+  },
+  {
+    "id": "ChIJ_d2mgUbRKogRc0bR7zVwBXY",
+    "name": "Chatime",
+    "address": "17725 Yonge St Unit 102A, Newmarket, ON L3Y 7C1, Canada",
+    "lat": 44.0596233,
+    "lng": -79.47993629999999,
+    "rating": 4.3,
+    "website": "https://chatime.ca/newmarket/"
+  },
+  {
+    "id": "ChIJk1RVS24tK4gRRLMOGWFqz9Q",
+    "name": "Ten Ren’s Tea",
+    "address": "5095 Yonge St a2, North York, ON M2N 6Z4, Canada",
+    "lat": 43.7692149,
+    "lng": -79.4123797,
+    "rating": 3.8,
+    "website": "https://tenren.ca/"
+  },
+  {
+    "id": "ChIJvTh4MNQ1K4gRgk93kMifYHo",
+    "name": "Coffee Lunar",
+    "address": "920 Yonge St #6, Toronto, ON M4W 3C7, Canada",
+    "lat": 43.6740892,
+    "lng": -79.38905849999999,
+    "rating": 4.4,
+    "website": "http://coffeelunar.com/"
+  },
+  {
+    "id": "ChIJjevXe1ktK4gRNaeyoRS6tCE",
+    "name": "Another Land Coffee",
+    "address": "4708 Yonge St, North York, ON M2N 5M4, Canada",
+    "lat": 43.7592602,
+    "lng": -79.4108249,
+    "rating": 4.6,
+    "website": "http://www.anotherlandcoffee.ca/"
+  }
+]
