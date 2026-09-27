@@ -29,7 +29,7 @@ The raw extraction returned ~40 candidate locations, which underwent practical s
 This reduced the dataset to an optimized target list of **14 candidate stops**.
 
 Link to Strava Activity: 
-[StravaPost](https://www.strava.com/activities/19857939096/overview)
+[https://www.strava.com/activities/19857939096/overview](https://www.strava.com/activities/19857939096/overview)
 
 ---
 
