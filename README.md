@@ -2,7 +2,7 @@
 
 Combining three passions: **running**, **geospatial data engineering**, and **matcha**.
 
-A 58 km self-supported ultramarathon starting at the northern terminus of Yonge Street in East Gwillumbury and finishing at Queens Quay along Lake Ontario in Toronto—hitting as many matcha cafes as logistically possible along the corridor.
+A 58 km self-supported ultramarathon starting at the northern terminus of Yonge Street in East Gwillumbury and finishing at Queens Quay along Lake Ontario in Toronto, hitting as many matcha cafes as logistically possible along the corridor.
 
 
 ---
@@ -24,7 +24,7 @@ The raw extraction returned ~40 candidate locations, which underwent practical s
 
 * **Attribute Filtering:** Removed full-service restaurants (e.g., sushi bars) that merely listed matcha desserts or green tea on their menu.
 * **Spatial Constraints:** Excluded indoor mall locations (e.g., Centerpoint Mall, CF Toronto Eaton Centre) that shared a Yonge Street address but introduced significant indoor navigation detours.
-* **Temporal Routing:** Factored in operating hours—prioritizing northern locations opening early in the morning and southern downtown stops remaining open later into the evening.
+* **Temporal Routing:** Factored in operating hours, prioritizing northern locations opening early in the morning and southern downtown stops remaining open later into the evening.
 
 This reduced the dataset to an optimized target list of **14 candidate stops**.
 
